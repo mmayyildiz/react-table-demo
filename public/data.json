@@ -1,0 +1,844 @@
+{
+  "financialInstruments": [
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 0.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3150.67,
+      "assetClass": "Credit"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3791.37,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 1000.34,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 3000.45,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": -3791.37,
+      "assetClass": "Macro"
+    },
+    {
+      "ticker": "ALPHA",
+      "price": 3501.37,
+      "assetClass": "Macro "
+    },
+    {
+      "ticker": "BETA",
+      "price": -2791.89,
+      "assetClass": "Equities"
+    },
+    {
+      "ticker": "BETA",
+      "price": 1670.01,
+      "assetClass": "Macro "
+    }
+  ]
+}

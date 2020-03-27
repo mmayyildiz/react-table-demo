@@ -1,0 +1,21 @@
+.table {
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.table .header {
+  display: flex;
+  background-color: rgb(238, 238, 238);
+}
+
+.table .header div {
+  flex: 1;
+  padding: 0.2rem 0.4em;
+  border: 1px solid rgb(238, 238, 238);
+  cursor: pointer;
+}
+
+.notFound {
+  margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+.row {
+  display: flex;
+}
+
+.Macro {
+  background-color: white;
+}
+
+.Equities {
+  background-color: rgb(0, 174, 255);
+}
+
+.Credit {
+  background-color: rgb(153, 243, 51);
+}
+
+.row div {
+  flex: 1;
+  padding: 0.2rem 0.4em;
+  border: 1px solid rgb(238, 238, 238);
+}
+
+.positivePrice {
+  color: blue;
+}
+
+.negativePrice {
+  color: rgb(228, 8, 8);
+}
